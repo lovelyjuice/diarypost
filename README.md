@@ -1,6 +1,6 @@
 #Diarypost
 
-!!!! THIS PROJECT IS STILL UNDER DEVELOPING !!!!
+!!!! THIS PROJECT IS STILL UNDER DEVELOPMENT !!!!
 
 Simple diary post webpage wrote in PHP.
 

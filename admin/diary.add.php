@@ -22,7 +22,7 @@
 				<br>
 				<td>Post diary</td>
 				<br>
-				<a href="diary.manage.php">Manage diary</a>
+                <a href="diary.manage.php">管理我的日记</a>
 			</div>
 		</form>
 	</body>

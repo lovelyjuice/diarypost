@@ -2,5 +2,5 @@
 	header('Content-type: text/html content="text/html; charset=utf-8"');
 	define('HOST','127.0.0.1');
 	define('USERNAME','root');
-	define('PASSWORD','123456');
+define('PASSWORD', '19980517');
 ?>

@@ -24,18 +24,20 @@
 						<td width="82">Operation</td>
 					</tr>
 					<?php
-						if(!empty($data)) foreach($data as $value);
+                    if (!empty($data)) foreach ($data as $value)
+                    {
 					?>
 					<tr>
 						<td><?php echo $value['id'];?></td>
 						<td><?php echo $value['title'];?></td>
 						<td><?php echo $value['author'];?></td>
-						<td><a href="diary.del.handle.php?id=<?php echo $value['id'];?>">Delete</a></td>
+                        <td><a href="diary.del.handle.php?id=<?php echo $value['id'];
+                            } ?>">Delete</a></td>
 					</tr>
 				</div>
 			</form>
 		</table>
-		<a href="diary.add.php">Post diary</a>
+        <a href="diary.add.php">写日记</a>
 		<br>Manage diary</br>
 	</body>
 </html>
